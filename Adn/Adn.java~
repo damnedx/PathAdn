@@ -1,0 +1,13 @@
+/**
+ * Projet POO
+ * \author ABDESSELAM Gaia
+ * \author BERTRAND Lucas
+ * \file Terrain.java
+ * \brief Generation du terrain, obstacles
+ */
+public class Adn {
+	
+	private final int deplacement = 32; // deplacement de 32px
+	
+	
+}
